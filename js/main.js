@@ -2,7 +2,7 @@ const rates = document.querySelectorAll('.rates')
 const submitButton = document.querySelector('.btn_submit')
 const submitSection = document.querySelector('.thankSection')
 const ratingSection = document.querySelector('.ratingSection')
-let current_rating = document.querySelector('.ratesText')
+const current_rating = document.querySelector('.ratesText')
 
 rates.forEach((rate, i) =>{
     rate.onclick = function () {
