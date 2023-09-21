@@ -34,7 +34,7 @@ body{
   padding: 20px;
   background-color: var(--very-dark-blue);
   color: var(--white);
-	font-family: var(--body-font);
+  font-family: var(--body-font);
   flex-direction: column;
   justify-content: center;
   align-items: center;
